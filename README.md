@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dibbayajyoti--roy-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dibbayajyoti-roy/)
 [![X](https://img.shields.io/badge/X-@dibbayajyoti-000000?style=flat-square&logo=x)](https://x.com/dibbayajyoti)
 [![Email](https://img.shields.io/badge/Email-rdibbayajyoti@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rdibbayajyoti@gmail.com)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_my_work-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/dibbayajyotiroy)
 
 </div>
 
@@ -104,6 +105,14 @@ I actively contribute to production open-source projects, particularly in Rust.
 **Frontend**
 
 `React` `Next.js` `TanStack Query` `Tailwind CSS`
+
+---
+
+## Support My Open-Source Work
+
+If my projects save you time, consider supporting their development. It funds maintenance, releases and new tools.
+
+[☕ Sponsor me on Ko-fi](https://ko-fi.com/dibbayajyotiroy)
 
 ---
 
